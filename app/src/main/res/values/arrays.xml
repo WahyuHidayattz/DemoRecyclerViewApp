@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>apple</item>
+        <item>avocado</item>
+        <item>banana</item>
+        <item>broccoli</item>
+        <item>cheese</item>
+        <item>cherries</item>
+        <item>corn</item>
+        <item>doughnut</item>
+        <item>hamburger</item>
+        <item>kiwi</item>
+        <item>orange</item>
+        <item>pear</item>
+        <item>pizza</item>
+        <item>strawberry</item>
+        <item>watermelon</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>@drawable/apple</item>
+        <item>@drawable/avocado</item>
+        <item>@drawable/banana</item>
+        <item>@drawable/broccoli</item>
+        <item>@drawable/cheese</item>
+        <item>@drawable/cherries</item>
+        <item>@drawable/corn</item>
+        <item>@drawable/doughnut</item>
+        <item>@drawable/hamburger</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/pear</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/strawberry</item>
+        <item>@drawable/watermelon</item>
+    </string-array>
+</resources>
